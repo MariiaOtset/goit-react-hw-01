@@ -1,0 +1,29 @@
+.profileCard {
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 350px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.profileImg {
+    width: 150px;
+    height: auto;
+    margin-top: 15px;
+    background: black;  
+    border-radius: 50%;
+}
+
+.username {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: -10px;
+   
+}
+
+.text {
+    color: gray;
+}

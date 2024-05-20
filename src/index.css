@@ -76,3 +76,7 @@ img {
   display: block;
   width: 100%;
 }
+
+ul, ol {
+  list-style-type: none;
+}

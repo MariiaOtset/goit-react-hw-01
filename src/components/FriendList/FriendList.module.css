@@ -1,0 +1,9 @@
+.friendCard {
+    border: 2px solid black;
+    width: 75px;
+    height: 150px;
+}
+
+.friendWrapper {
+    display: flex;
+}
