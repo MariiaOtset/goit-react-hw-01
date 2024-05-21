@@ -1,26 +1,17 @@
-/* .online {
+.online {
     color: green;
-    font-size: 20px;
 }
 
 .offline {
     color: red;
-} */
-
-.status {
-    font-size: 14px;
 }
 
-.online {
-    width: 10px;
-    height: 10px;
-    background-color: green;
-    border-radius: 50%;
+p {
+    margin: 8px;
 }
 
-.offline {
-    width: 10px;
-    height: 10px;
-    background-color: red;
-    border-radius: 50%;
+.friendImg {
+    width: 55px;
+    height: auto;
+    margin: 10px;
 }
