@@ -1,0 +1,25 @@
+.row,
+.type {
+  border: 1px solid black;
+  padding: 3px;
+}
+
+.table {
+  border: 1px solid black;
+  border-spacing: 0;
+  margin-top: 25px;
+  width: 275px;
+}
+
+td::first-letter {
+  text-transform: uppercase;
+}
+
+.row {
+  color: white;
+  background-color: black;
+}
+
+.data:nth-child(even) {
+  background-color: #d4d4d4;
+}
