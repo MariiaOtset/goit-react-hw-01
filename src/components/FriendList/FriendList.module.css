@@ -1,13 +1,11 @@
 .friendCard {
-    border: 2px solid black;
-    width: 75px;
-    height: 150px;
+  border: 2px solid black;
+  width: 75px;
+  height: 143px;
+  border-radius: 6px;
 }
 
 .friendWrapper {
-    display: flex;
-
+  display: flex;
+  column-gap: 10px;
 }
-
-
-
